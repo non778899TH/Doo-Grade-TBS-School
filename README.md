@@ -9,3 +9,5 @@ To do List:
 [] Print เกรดออกผ่าน Console
 
 [] ลบ Error Log ใน Console
+
+[] แจ้งเกรด GPA ผ่าน Webhook Discord
